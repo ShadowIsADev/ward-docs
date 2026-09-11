@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Ward Systems Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#6a8bbc",
+    "light": "#6AA6FF",
+    "dark": "#3a5b8d"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -69,5 +69,14 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "background": {
+    "color": {
+      "light": "#f1f1f1",
+      "dark": "#07070A"
+    }
+  },
+  "icons": {
+    "library": "lucide"
   }
 }
