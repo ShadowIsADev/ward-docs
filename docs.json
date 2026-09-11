@@ -34,12 +34,32 @@
     },
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "Information",
         "pages": [
           "introduction",
           "first-time-setup"
         ],
         "icon": "alarm-clock-minus"
+      },
+      {
+        "group": "Modules",
+        "pages": [
+          "anti-raid",
+          "moderation-tools",
+          "community-reports"
+        ]
+      },
+      {
+        "group": "Changelog",
+        "icon": "activity",
+        "pages": [
+          {
+            "group": "Version 1",
+            "pages": [
+              "version1"
+            ]
+          }
+        ]
       }
     ]
   },
