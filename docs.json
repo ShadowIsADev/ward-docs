@@ -36,8 +36,8 @@
       {
         "group": "Getting Started",
         "pages": [
-          "quickstart-2",
-          "quickstart"
+          "introduction",
+          "first-time-setup"
         ]
       }
     ]
