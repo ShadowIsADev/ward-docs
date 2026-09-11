@@ -51,7 +51,11 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@wardsystems.xyz"
+      },
+      {
+        "href": "https://wardsystems.xyz/systems",
+        "label": "Dashboard"
       }
     ],
     "primary": {
