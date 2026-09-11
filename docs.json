@@ -31,7 +31,16 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "quickstart-2",
+          "quickstart"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/ward_text_logo_light_mode.png",
