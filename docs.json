@@ -36,9 +36,10 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
+          "introduction",
           "First-time-setup"
-        ]
+        ],
+        "icon": "align-end-horizontal"
       }
     ]
   },
