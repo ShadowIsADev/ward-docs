@@ -1,0 +1,56 @@
+---
+title: "untitled-page"
+description: "Quick Guide on how to setup the Ward Systems discord bot with the dashbaord or legacy command"
+---
+
+<Card title="Dashboard Access" icon="notepad-text-dashed">
+  The Ward [dashboard](https://wardsystems.xyz/dashboard) is the fastest way to configure the bot. First-time setup is streamlined and quicker than the legacy `/config` command, and this guide walks you through it step by step.
+
+  <Steps>
+    <Step title="Invite Ward to your server">
+      Add the bot from [wardsystems.xyz/invite](https://wardsystems.xyz/invite) and accept the required permissions.
+    </Step>
+    <Step title="Open the dashboard">
+      Navigate to [wardsystems.xyz/dashboard](https://wardsystems.xyz/dashboard).
+    </Step>
+    <Step title="Sign in with Discord">
+      Authorize with your Discord account so Ward can list the servers you manage.
+    </Step>
+    <Step title="Select your server">
+      Pick the server you want to configure. You need **Manage Server** permission for it to appear.
+    </Step>
+    <Step title="Run the guided setup">
+      Step through moderation defaults, join gates, auto-mod filters, and staff roles. Each step shows a summary before saving.
+    </Step>
+    <Step title="Test your configuration">
+      Use the built-in test actions to verify verification, logging, and moderation are working as expected.
+    </Step>
+  </Steps>
+</Card>
+
+<Card title="Legacy Command Config" icon="sparkles">
+  Prefer commands? The `/config` command still works for configuring Ward directly from Discord.
+
+  <Warning>
+    **Deprecated:** `/config` is scheduled for removal in the 3rd or 4th release of Ward's Discord bot. Use the [dashboard](https://wardsystems.xyz/dashboard) for all new configuration.
+  </Warning>
+
+  <Steps>
+    <Step title="Invite the bot">
+      Make sure Ward is in your server and has the required permissions.
+    </Step>
+    <Step title="Run /config">
+      In any channel Ward can see, type `/config` to open the command-based configuration menu.
+    </Step>
+    <Step title="Pick a category">
+      Choose the area you want to configure: moderation, join gates, auto-mod, logging, or staff roles.
+    </Step>
+    <Step title="Apply your settings">
+      Follow the prompts for each setting. Ward confirms each change in the channel.
+    </Step>
+  </Steps>
+
+  <Tip>
+    The [dashboard](https://wardsystems.xyz/dashboard) covers everything `/config` does and is faster for first-time setup.
+  </Tip>
+</Card>
