@@ -44,6 +44,7 @@
       {
         "group": "Modules",
         "pages": [
+          "Overview",
           "anti-raid",
           "moderation-tools",
           "community-reports"
